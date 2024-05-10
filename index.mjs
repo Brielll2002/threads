@@ -39,7 +39,7 @@ await Promise.all([
     createThread({////
         to: 1e9,    ///
         from: 0     /////
-    }),             ////// Paralelismo
+    }),             ////// Paralelo
     createThread({  /////
         to: 1e9,    ///
         from: 0     ///
